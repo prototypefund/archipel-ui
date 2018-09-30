@@ -1,5 +1,7 @@
 # Archipel UI
 
+*Deprecated! Moved into archipel-app monorepo.*
+
 UI components for [Archipel](https://github.com/archipel-somoco). Uses [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/). Bundled with [Rollup](https://rollupjs.org/).
 
 ## Usage
